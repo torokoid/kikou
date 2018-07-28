@@ -117,43 +117,43 @@ function goukei(a,b,c,d) {
  <h3><span class="blue"><strong><a href="#" class="p">裏表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8402.JPG" alt="裏表紙"></span></a></strong></span></h3> 
  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">目次<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8403.JPG" alt="目次"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P12<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8404.JPG" alt="P12"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P14<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8405.JPG" alt="P14"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P16<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8406.JPG" alt="P16"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P18<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8407.JPG" alt="P18"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P20<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8408.JPG" alt="P20"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P22<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8409.JPG" alt="P22"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P24<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8410.JPG" alt="P24"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P26<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8411.JPG" alt="P26"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P28<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8412.JPG" alt="P28"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P30<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8413.JPG" alt="P30"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P32<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8414.JPG" alt="P32"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P34<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8415.JPG" alt="P34"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P36<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8416.JPG" alt="P36"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P38<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8417.JPG" alt="P38"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P40<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8418.JPG" alt="P40"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P42<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8419.JPG" alt="P42"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P44<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8420.JPG" alt="P44"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="blue"><strong><a href="#" class="p">P46<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8421.JPG" alt="P46"></span></a></strong></span></h3> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
