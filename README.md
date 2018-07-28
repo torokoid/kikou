@@ -112,6 +112,9 @@ function goukei(a,b,c,d) {
 
 <!-- ヘッダ -->
  <header> </header>
- <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://github.com/torokoid/kikou/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></p></strong></span></h2>
-
+ <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://github.com/torokoid/kikou/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></p></strong></span></h2> <br/>
+<p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
+   <br/>
+ <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://github.com/torokoid/kikou/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="ム～さん"></span></a>のご尽力！
+   <br/>
 
