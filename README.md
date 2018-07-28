@@ -112,9 +112,27 @@ function goukei(a,b,c,d) {
 
 <!-- ヘッダ -->
  <header> </header>
- <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></p></strong></span></h2> <br/>
-<p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
-   <br/>
- <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://github.com/torokoid/kikou/blob/master/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="ム～さん"></span></a>のご尽力！
-   <br/>
+ <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+ <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">裏表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8402.JPG" alt="裏表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">裏表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8403.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8404.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8405.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8406.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8407.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8408.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8409.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8410.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8411.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8412.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8413.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8414.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8415.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8416.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8417.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8418.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8419.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8420.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+<h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8421.JPG" alt="表紙"></span></a></p></strong></span></h3> <br/>
+
+
 
