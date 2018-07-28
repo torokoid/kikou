@@ -111,7 +111,7 @@ function goukei(a,b,c,d) {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!-- ヘッダ -->
- <header>
- <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
- </header>
+ <header> </header>
+ <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="表紙"></span></a></p></strong></span></h2>
+
 
