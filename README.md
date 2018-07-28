@@ -68,7 +68,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://github.com/torokoid/Empty-s/blob/master/2017_17.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Empty-s/2017_17.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -112,6 +112,6 @@ function goukei(a,b,c,d) {
 
 <!-- ヘッダ -->
  <header> </header>
- <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="表紙"></span></a></p></strong></span></h2>
+ <h2><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/409.JPG" alt="表紙"></span></a></p></strong></span></h2>
 
 
