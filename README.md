@@ -112,7 +112,7 @@ function goukei(a,b,c,d) {
 
 <!-- ヘッダ -->
  <header> </header>
- <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></p></strong></span></h3> 
+ <h3><span class="blue"><strong><a href="#" class="p">表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8401.JPG" alt="表紙"></span></a></strong></span></h3> 
  <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">裏表紙<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8402.JPG" alt="裏表紙"></span></a></p></strong></span></h3> 
 <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">目次<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8403.JPG" alt="目次"></span></a></p></strong></span></h3> 
 <h3><span class="blue"><strong><p>気功の真髄<a href="#" class="p">P12<span><img src="https://torokoid.github.io/kikou/%E6%B0%97%E5%8A%9F%E3%81%AE%E7%9C%9F%E9%AB%8404.JPG" alt="P12"></span></a></p></strong></span></h3> 
