@@ -2,7 +2,7 @@
  <html lang="ja">
  <head>
  <meta charset="UTF-8">
- <title>まほろば</title>
+ <title>気功の真髄</title>
 
 <style type="text/css">
  p {
@@ -107,28 +107,11 @@ function goukei(a,b,c,d) {
       } 
         
     </script>
-<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 気功の真髄 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!-- ヘッダ -->
  <header>
  <h2><span class="white"><strong><p>夏季休暇を利用して<a href="#" class="p">毎年<span><img src="https://torokoid.github.io/mahoroba/409.JPG" alt="毎年、"></span></a>お泊り会！</p></strong></span></h2>
  </header>
-<p><span class="white"><strong> <p><a href="#" class="p">歴代の記録、<span><img src="https://torokoid.github.io/mahoroba/0216.JPG" alt="歴代の記録、"></span></a>年代のクリックで飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
-<div style="background: url(https://torokoid.github.io/mahoroba/454.JPG) no-repeat top center; background-size:contain;"><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2017/">_____2017年の記録</a> </marquee></span></h1>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2016/">____2016年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2015/">___2015年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2014/">__2014年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2013/">_2013年の記録</a> </marquee></span></h1></p>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.1)"><marquee behavior="alternate"><a href="https://torokoid.github.io/mahoroba_2012/">2012年の記録</a> </marquee></span></h1>
-<p>&#160;</p>
-<p><h1><span style="color:#ff0000; background-color:rgb(0,255,255,0.5);"><marquee behavior="alternate"><a href="https://opa.cig2.imagegateway.net/s/cp/GtrPJYyVR4E" target="_blank">【番外編】2005(H17)年鮎パーティー</a> </marquee></span></h1></p>
-<br/>
-   <p>スタートは宇都宮駅、西口の川で鮎焼きしたのが始まりでした。2004年でしたか？</p>
-<p>&#160;</p>
 
-<p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
-   <br/>
-<a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>いつも遠くからの運転、お気をつけて！</p>
-      <h2> 
-      <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
